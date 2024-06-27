@@ -1,0 +1,10 @@
+# the calculation of cost for the shop X
+prices = [10, 20, 30, 40]
+
+total = 0
+for price in prices: # iterate over the items
+    total += price
+
+print(f"{total}")
+
+
