@@ -1,4 +1,4 @@
-# cordinates (x, y) by using the nested loops
+# coordinates (x, y) by using the nested loops
 
 for x in range (5):
     for y in range (3):
